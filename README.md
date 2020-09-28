@@ -1,2 +1,2 @@
-# Coursera_module2
+# Coursera_assignment_webdev
 Coursera module 2 repository
